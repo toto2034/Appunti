@@ -1,13 +1,13 @@
 ## Agenti Intelligenti
 
-Agente è un qualsiasi cosa possa essere vista come un sistema che percepisce il suo ambiente attraverso sensori ed agisce su di esse tramite degli attuatori
+Agente è un qualsiasi cosa possa essere vista come un sistema che percepisce il suo ambiente attraverso **sensori** ed agisce su di esse tramite degli **attuatori**
 
-Ad esempio: Un umano è un agente perchè utilizza come sensori (i sensi), occhi, orecchie naso e utilizza degli attuatori
+Ad esempio: Un umano è un agente perchè utilizza come sensori (i sensi), occhi, orecchie naso e utilizza degli attuatori (mani) per interagire con l'ambiente circostante.
 
-Definizione di Percezione:  Insieme di input percettivi dell’agente in un dato istante.
-Definizione di Sequenza percettiva: la storia completa di tutto ciò che l'agente ha percepito nella sua esistenza
+Definizione di **Percezione**:  Insieme di input percettivi dell’agente in un dato istante.
+Definizione di **Sequenza percettiva**: la storia completa di tutto ciò che l'agente ha percepito nella sua esistenza
 
-Un'azione dell'agente, in un qualsiasi istante, può dipendere dall'intera sequenza, ma non daqualcosa che non abbia percepito.
+Un'azione dell'agente, in un qualsiasi istante, può dipendere dall'intera sequenza, ma non da qualcosa che non abbia percepito.
 
 ### Cosa rende un agente intelligente o stupido?
 
